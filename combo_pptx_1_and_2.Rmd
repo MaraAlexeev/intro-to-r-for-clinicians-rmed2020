@@ -1,0 +1,48 @@
+---
+title: "Combing presentations 1 and 2"
+author: "Mara Alexeev"
+date: "7/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries}
+
+```
+
+
+```{r anatomy_of_rmd}
+
+```
+
+# Knitting your file
+
+
+```{r how_to_knit}
+
+```
+
+## html
+
+## pdf
+
+## word
+
+
+# R Code
+```{r simple_function}
+
+```
+
+
+# Importing Data
+```{r import_data}
+
+```
+
+# View Tablular Data
+
+# Graph Data
